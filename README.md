@@ -13,3 +13,7 @@ touch ~/Desktop/C++/{1\ Cpp,2\ CPP,3\ CPP}.cpp
 Step 3 Assign Permissions Make all files executable: chmod +x ~/Desktop/C++/.cpp ~/Desktop/Python/.py ~/Desktop/Shell\ Script/*.sh
 
 ![Alt text](Lab1/3.png)
+
+Step 4 Add Basic Code Add basic code to each file using echo:
+
+![Alt text](Lab1/4.png)
