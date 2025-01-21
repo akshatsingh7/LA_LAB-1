@@ -17,3 +17,7 @@ Step 3 Assign Permissions Make all files executable: chmod +x ~/Desktop/C++/.cpp
 Step 4 Add Basic Code Add basic code to each file using echo:
 
 ![Alt text](Lab1/4.png)
+
+Step 5 Execute Files Run C++ Files, Python and Shellscript files
+
+![Alt text](Lab1/5.png)
