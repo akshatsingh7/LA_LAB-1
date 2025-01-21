@@ -10,3 +10,6 @@ touch ~/Desktop/C++/{1\ Cpp,2\ CPP,3\ CPP}.cpp
 
 ![Alt text](Lab1/2.png)
 
+Step 3 Assign Permissions Make all files executable: chmod +x ~/Desktop/C++/.cpp ~/Desktop/Python/.py ~/Desktop/Shell\ Script/*.sh
+
+![Alt text](Lab1/3.png)
